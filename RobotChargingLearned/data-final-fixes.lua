@@ -1,1 +1,0 @@
-data.raw.roboport.roboport.charging_energy = "1210MW" 
