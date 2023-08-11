@@ -1,0 +1,13 @@
+{
+  "name": "RobotChargingLearned",
+  "version": "1.2",
+  
+  "title": "Robot Charging made better through Learning",
+  "description": "Flying robot charge in roboports can get faster",
+  
+  "author": "micah.weihert",
+  "license": "MIT",
+  
+  "dependencies": ["base"],
+  "factorio_version": "1.1"
+}
